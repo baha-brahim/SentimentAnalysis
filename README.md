@@ -21,13 +21,12 @@ This project compares Logistic Regression (TF-IDF) and DistilBERT for classifyin
 - Frameworks: scikit-learn, HuggingFace Transformers, spaCy
 
 ## Installation & Usage
-git clone <repo-url>
-cd <repo-folder>
+```sh
+git clone <https://github.com/baha-brahim/SentimentAnalysis/>
+cd SentimentAnalysis
 pip install -r requirements.txt
 Run the notebook in your preferred environment
-
-text
-
+```
 ## Project Structure
 - Data loading & clean-up
 - Feature engineering
