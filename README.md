@@ -22,7 +22,7 @@ This project compares Logistic Regression (TF-IDF) and DistilBERT for classifyin
 
 ## Installation & Usage
 ```sh
-git clone <https://github.com/baha-brahim/SentimentAnalysis/>
+git clone https://github.com/baha-brahim/SentimentAnalysis/
 cd SentimentAnalysis
 pip install -r requirements.txt
 Run the notebook in your preferred environment
